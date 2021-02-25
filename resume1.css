@@ -131,6 +131,7 @@ height: 210px;
     padding-top: 5px;
     margin-left: 35px;
     margin-top: 65px;
+    filter: grayscale(100%);
 }
 
 .aboutpic:hover{
